@@ -78,7 +78,7 @@ Hospitals generate high volumes of clinical data that often remain underutilised
   - Readmissions by Year
   - Admissions by Year
   - Deaths by Year
-📷 Visuals saved in `screenshots/` : https://github.com/Gitrohinihub/Health_care_Project/blob/main/Analysis%20by%20Year%20Report%20page%202nd.png
+![image link](https://github.com/Gitrohinihub/Health_care_Project/blob/f26162e82c2e96a05097240d355661afc0e563f4/Analysis%20by%20Year%20Report%20page%202nd.png)
 
 ---
 
