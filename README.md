@@ -89,27 +89,12 @@ Hospitals generate high volumes of clinical data that often remain underutilised
 - 🔁 Readmissions peaked in 2028, possibly indicating post-surgery follow-ups or complications
 - 📊 Stable admissions over the years show consistent intake
 
----
-
-📁 Folder Structure
-
-```bash
-📦 Health_Care_SQL_Project/
-├── sql/
-│   ├── create_procedure.sql
-│   ├── custom_functions.sql
-│   ├── profiling_queries.sql
-│   └── summary_views.sql
-├── reports/
-│   └── Health_Analysis_Report.pdf
-├── screenshots/
-│   ├── yearly_dashboard.png
-│   └── hospital_dashboard.png
-└── README.md
-
-
 🤝 Connect With Me :
 💼 LinkedIn: https://www.linkedin.com/in/rohini-singh-8a97a1229 
 📧 email: miss.rohini09coder@gmail.com
+
+
+
+
 
 
