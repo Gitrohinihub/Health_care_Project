@@ -80,6 +80,7 @@ Hospitals generate high volumes of clinical data that often remain underutilised
   - Deaths by Year
 ![image link](https://github.com/Gitrohinihub/Health_care_Project/blob/f26162e82c2e96a05097240d355661afc0e563f4/Analysis%20by%20Year%20Report%20page%202nd.png)
 
+Power BI App project link :https://app.powerbi.com/links/zhYv3PdP7t?ctid=c9b30289-5c60-41dc-85c2-d8862dea8925&pbi_source=linkShare
 ---
 
 📈 Key Insights
