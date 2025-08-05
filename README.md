@@ -69,7 +69,7 @@ Hospitals generate high volumes of clinical data that often remain underutilised
   - Readmissions by Hospital
   - Admissions by Hospital
   - Deaths by Hospital
-  - 📷 Visuals saved in `screenshots/` : 
+  - 📷 Visuals saved in `screenshots/` : https://github.com/Gitrohinihub/Health_care_Project/blob/main/Health%20Data%20Analysis%20Report%20page%201st.png
  
 📅 Page 2 – Year-wise Metrics
 
@@ -78,7 +78,7 @@ Hospitals generate high volumes of clinical data that often remain underutilised
   - Readmissions by Year
   - Admissions by Year
   - Deaths by Year
-📷 Visuals saved in `screenshots/` :
+📷 Visuals saved in `screenshots/` : https://github.com/Gitrohinihub/Health_care_Project/blob/main/Analysis%20by%20Year%20Report%20page%202nd.png
 
 ---
 
@@ -90,7 +90,9 @@ Hospitals generate high volumes of clinical data that often remain underutilised
 - 📊 Stable admissions over the years show consistent intake
 
 🤝 Connect With Me :
+
 💼 LinkedIn: https://www.linkedin.com/in/rohini-singh-8a97a1229 
+
 📧 email: miss.rohini09coder@gmail.com
 
 
