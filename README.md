@@ -18,6 +18,14 @@ Hospitals generate high volumes of clinical data that often remain underutilised
 
 ---
 
+🎯 Business Objective
+
+1. **Improving Patient Outcomes**: Track key metrics to detect trends and improve healthcare quality.
+2. **Optimising Resource Allocation**: Analyse hospital performance to distribute resources efficiently.
+3. **Supporting Strategic Planning**: Use historical data (2024–2030) to forecast future healthcare demands.
+
+---
+
 🗂️ Dataset Details
 
 - **Source**: Simulated (self-created 20M+ rows)
@@ -80,7 +88,8 @@ Hospitals generate high volumes of clinical data that often remain underutilised
   - Deaths by Year
 ![image link](https://github.com/Gitrohinihub/Health_care_Project/blob/f26162e82c2e96a05097240d355661afc0e563f4/Analysis%20by%20Year%20Report%20page%202nd.png)
 
-Power BI App project link :https://app.powerbi.com/links/zhYv3PdP7t?ctid=c9b30289-5c60-41dc-85c2-d8862dea8925&pbi_source=linkShare
+Power BI App project link: https://app.powerbi.com/links/zhYv3PdP7t?ctid=c9b30289-5c60-41dc-85c2-d8862dea8925&pbi_source=linkShare
+
 ---
 
 📈 Key Insights
@@ -90,6 +99,32 @@ Power BI App project link :https://app.powerbi.com/links/zhYv3PdP7t?ctid=c9b3028
 - 🔁 Readmissions peaked in 2028, possibly indicating post-surgery follow-ups or complications
 - 📊 Stable admissions over the years show consistent intake
 
+---
+
+💡 Business Recommendations
+
+- **Target High-Risk Hospitals for Intervention**  
+  Identify and improve hospitals with high death or infection rates by implementing staff training, better protocols, or audits.6.1s
+
+- **Enhance Preventive Measures**  
+  Improve post-discharge education and follow-up practices to reduce readmissions and infections.
+
+- **Plan for Future Capacity**  
+  Use rising admission trends to expand staff, equipment, and infrastructure.
+
+---
+
+## 📊 Before vs After: Impact of Analysis
+
+|                      **Before**                                                             | **After**                                                                  |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| No visibility on which hospitals had the worst readmission rates       | Highlighted Hospital with **11.48M readmissions** for urgent intervention                       |
+| Data was just rows in a database                                       | Dashboard revealed infection drop to **571K in 2026**, making trends actionable                 |
+| Unclear which hospitals had high mortality                             | Identified **Hospital with 2.86M deaths** as critical, improving decision-making                |
+| No insight into admission growth                                       | Visuals showed admissions growing to **356.38M by 2030**, enabling long-term planning           |
+
+
+  
 🤝 Connect With Me :
 
 💼 LinkedIn: https://www.linkedin.com/in/rohini-singh-8a97a1229 
