@@ -127,7 +127,7 @@ Power BI App project link: https://app.powerbi.com/links/zhYv3PdP7t?ctid=c9b3028
   
 🤝 Connect With Me :
 
-💼 LinkedIn: https://www.linkedin.com/in/rohini-singh-8a97a1229 
+💼 LinkedIn: [Rohini Singh](https://www.linkedin.com/in/rohini-singh-8a97a1229)
 
 📧 email: miss.rohini09coder@gmail.com
 
